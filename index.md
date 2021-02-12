@@ -1,18 +1,17 @@
+# Optimize your computer
+There are a lot of tweaks, optimizations, tutorials, scripts and software on the internet that will promise you to double your FPS, reduce your latency, stabilize your FPS, and I don't know what else. The majority of these tweaks are bogus, more up to date, do not improve anything, and may force you to reinstall windows in case of error (and sometimes even if you have followed everything correctly), or even damage your PC.
+The simple tweaks I'm going to detail here are going to ensure a healthy pc, and you will have gone 99% of the way in optimizing your pc, pc safe, and with everything working.
 
-# Optimiser son PC.
-Il existe énormément de tweaks, optimisations, tutoriels, scripts et logiciels sur internet qui vont vous promettre de doubler vos FPS, réduire votre latence, stabiliser vos FPS, et je ne sais quoi d'autre. La majorité de ces tweaks sont faux, plus à jour, n'améliorent rien, et risquent de vous forcer à réinstaller windows en cas d'erreur (et des fois même si vous avez tout suivi correctement), voire même d'endommager votre PC.
-Les simples tweaks que je vais détailler ici vont garantir un pc qui sera sain, et vous aurez fait 99% du chemin concernant l'optimisation de votre PC, sans danger pour le PC, et avec tout qui fonctionnera.
+If you want to scratch the remaining 1%, do so, but know that it is at your own risk, that you will inevitably at some point do something stupid and have to reinstall windows, and all for a performance gain that will be very very low (overall 100% invisible). <br/>
 
-Si vous souhaitez gratter le 1% restant, faites le, mais sachez que c'est à vos risques et périls, que vous allez forcément à un moment faire une connerie et devoir réinstaller windows, et le tout pour un gain de performances qui sera très très faible (globalement 100% invisible). <br/>
+Here is what I advise you on a new installation of windows. These are tweaks that are safe for the pc, whether hardware or software. If you have a specific question during any of the steps, do not hesitate to ask on *[`Discord`](https://discord.gg/informatique)* ! The Discord server is in French<br/>
 
-Voici ce que je vous conseille sur une nouvelle installation de windows. Ce sont des tweaks qui sont sans dangers pour le pc, que ce soit niveau hardware ou software. Si vous avez une question particulière durant une des étapes, n'hésitez pas à demander sur *[`Discord`](https://discord.gg/informatique)* !<br/>
+## Contents
 
-## Table des matières
-
- - [**Installation de Windows**](#installation-de-windows)
- - [**Désactivation des drivers automatiques**](#désactivation-des-drivers-automatiques--tweaks-regedit)
- - [**Tweaks regedit**](#désactivation-des-drivers-automatiques--tweaks-regedit)
- - [**Installation du driver vidéo**](#installation-du-driver-vidéo)
+ - [**Windows installation**](#windows-installation)
+ - [**Deactivation of automatic drivers**](#deactivation-of-automatic-drivers)
+ - [**Tweaks regedit**](#tweaks-regedit)
+ - [**Installing the video driver**](#installing-the-video-driver)
  - [**Installation des drivers**](#installation-des-drivers)
  - [**Mises à jour de Windows**](#mises-à-jour-de-windows)
  - [**Paramètres de Windows**](#paramètres-de-windows)
@@ -24,7 +23,8 @@ Voici ce que je vous conseille sur une nouvelle installation de windows. Ce sont
  - [**Mode de gestion d'alimentation**](#mode-de-gestion-dalimentation)
  - [**Réactivation des drivers automatiques**](#réactivation-des-drivers-automatiques)
  - [**Installation des bibliothèques C++**](#installation-des-bibliothèques-c)
-## Installation de Windows
+
+## Windows installation
 
 **Note:** Je recommande de réinstaller Windows, afin de repartir sur une base saine. Qui sait ce que vous avez installé sur votre PC, quels tweaks (utiles ou non) vous avez pu installer, quels logiciels inutiles ou virus vous pouvez avoir sur votre PC, etc etc. Réinstaller complètement Windows permettra de repartir complètement d'une base saine, et d'assurer des performances et une compatibilité maximale.
 
